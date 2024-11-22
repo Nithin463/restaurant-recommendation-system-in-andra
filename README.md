@@ -44,6 +44,6 @@ The dataset includes:
 ## Author
 
 **G Nithin**  
-Final-Year B.Tech Student  
+B.Tech Student  
 Data Science Enthusiast
 
