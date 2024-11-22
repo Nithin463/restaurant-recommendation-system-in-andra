@@ -17,8 +17,7 @@ This project leverages **content-based filtering** powered by **Python**, **Stre
 
 ---
 
-
-##📊 Dataset
+## 📊 Dataset
 The dataset includes:
 
 - Features: Name, Cuisine, Location, Price_For_Two, Ratings, Special_Features, and more
